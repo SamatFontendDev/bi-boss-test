@@ -554,6 +554,9 @@
     .person-section{
     margin-top: 0;
     }
+    .first-section {
+    margin-bottom: 32px;
+    }
     .section__row{
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
