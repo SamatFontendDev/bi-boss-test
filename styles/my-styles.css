@@ -665,4 +665,7 @@
     .other{
         width: 300px;
     }
+    .person-block__pic {
+        margin-right: 0px;
+    }
 }
